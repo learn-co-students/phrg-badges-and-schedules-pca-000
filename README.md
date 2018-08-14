@@ -28,5 +28,8 @@ You just realized that you also need to give each speaker a room assignment. Wri
 
 Now you have to tell the printer what to print. Create a method called `printer` that will output first the results of the `batch_badge_creator` method and then of the `assign_rooms` method to the screen.
   * *Hint*: Remember that methods can call other methods. If the return value of `assign_rooms` is an array of room assignments, how can you print out each assignment? You'll need to iterate over your array of room assignments in order to `puts` out each individual assignment.
+  
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-badges-and-schedules/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-badges-and-schedules/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Badges and Schedules</p>
