@@ -1,9 +1,0 @@
-tags:
-  - arrays
-  - iteration
-  - methods
-languages:
-  - ruby
-resources: 3
-
-parent_template: git@github.com:learn-co-curriculum/badges-and-schedules.git
